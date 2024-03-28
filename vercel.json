@@ -13,11 +13,11 @@
     },
     {
       "src": "/api/(.*)",
-      "dest": "server.js"
+      "dest": "server.ts"
     },
     {
       "src": "/(.*)",
-      "dest": "server.js"
+      "dest": "server.ts"
     }
   ]
 }
